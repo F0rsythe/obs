@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "accionmfb/POC.md",
+                "file": "Daily/2024-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "accionmfb/POC.md",
+                "file": "Daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "accionmfb/POC.md",
+                "file": "Daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "accionmfb/POC.md"
+                "file": "Daily/2024-02-20.md"
               }
             }
           },
@@ -170,13 +170,13 @@
   },
   "active": "ceadfe05a52ad184",
   "lastOpenFiles": [
-    "Daily/2024-02-20.md",
     "accionmfb/POC.md",
+    "Pasted image 20240219165039.png",
+    "Daily/2024-02-20.md",
     "conflict-files-obsidian-git.md",
     "Daily",
     "test.md",
     "labs/ValleyPE - tryhackme.md",
-    "Pasted image 20240219165039.png",
     "accionmfb",
     "Untitled 1.md",
     "labs/valleype-tryhackme",
