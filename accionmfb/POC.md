@@ -1,5 +1,5 @@
 ![[Pasted image 20240219165039.png]]
-acciommfb using rsa
+acciommfb using rsaf
 
 | ip address | Status | Subdomain | Extras | Type |
 | :--- | ---- | ---- | ---- | ---- |
