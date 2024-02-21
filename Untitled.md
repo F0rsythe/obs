@@ -1,4 +1,4 @@
-fidelity ausit, attended close ut meeting with fidelity -israel
+Israel - fidelity audit, attended close out meeting with fidelity 
 fidelity audit  and prep for practical assessment- itunu
 Adaora- prep for practical assessment
 Femi Dawodu -  Fidelity audit and close out meeting, scan using invicti, scan using nmap,solve box on offsec
@@ -11,4 +11,4 @@ TImilehin - I worked on fidelity bank audit, attended meeting, identified gaps p
 Toyosola - wrapped up tech report for access bank subsidiaries, currently working on executiv summmary
 Mr Wisdom - working on report for Acces bank subsidiaries, working on renmoney report, following up on first pension to carry out internal assessment on site
 Yimika - attended the gap assessment audit and close out meeting for fidelity bank and prep for assessment
-Achiugo - worked on report for , sent out report for lemonade
+Achiugo - worked on report for access bank , sent out report for lemonade.
