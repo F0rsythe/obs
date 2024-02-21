@@ -30,7 +30,8 @@ todo
 12. Run nessus on all 
 13. try this route: https://rastating.github.io/how-i-hacked-bobby/
 
-to get first ip in subnet do subnet mask and the ip address
+to get first ip in subnet do subnet mask AND the ip address
+to get the last ip in subnet do inverse of subnet mask OR the ip address
 # Amass results
 ---
 ![[Pasted image 20240220131801.png]]
