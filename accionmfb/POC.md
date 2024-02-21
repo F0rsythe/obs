@@ -63,9 +63,9 @@ test.igree.accionmfb.com (FQDN) --> a_record --> 102.216.200.246 (IPAddress) -- 
 8075 (ASN) --> announces --> 52.160.0.0/11 (Netblock)
 36920 (ASN) --> managed_by --> KKON, NG (RIROrganization)
 36920 (ASN) --> announces --> 102.216.200.0/24 (Netblock)
-accionmfb.com (FQDN) --> node --> digital.accionmfb.com (FQDN)
-digital.accionmfb.com (FQDN) --> a_record --> 154.113.153.115 (IPAddress)
-154.113.0.0/16 (Netblock) --> contains --> 154.113.153.115 (IPAddress)
+accionmfb.com (FQDN) --> node --> digital.accionmfb.com (FQDN) -- done 
+digital.accionmfb.com (FQDN) --> a_record --> 154.113.153.115 (IPAddress) -- done
+154.113.0.0/16 (Netblock) --> contains --> 154.113.153.115 (IPAddress) -- done
 accionmfb.com (FQDN) --> node --> helpdesk.accionmfb.com (FQDN)
 accionmfb.com (FQDN) --> node --> audit360.accionmfb.com (FQDN)
 accionmfb.com (FQDN) --> node --> intranet.accionmfb.com (FQDN)
