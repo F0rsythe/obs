@@ -6,4 +6,5 @@ Funmibi - Assigned parallex bank with olufela providing support, prep for assess
 Ms Opeyemi - 
 Ore - fidelity bank audit, prep for exams by downloading tools
 Raphael - 
-Mr Subair -
+Mr Subair - supporting Ms Emelda, review the gap tacker that went out today, support esther to on any task given
+TImilehin - I worked on fidelity bank audit, at
