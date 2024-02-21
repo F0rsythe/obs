@@ -3,7 +3,7 @@ Itunu - attended fidelity audit  and prep for practical assessment
 Adaora- prep for practical assessment
 Femi Dawodu -  Fidelity audit and close out meeting, scan using invicti, scan using nmap,solve box on offsec
 Funmibi - Assigned parallex bank with olufela providing support, prep for assessment
-Ms Opeyemi - 
+Ms Opeyemi - Finish uploading  the evidences for ren tech, carbvon finance, getting on calls alongside Esther to review changes and prep for QSA audit
 Ore - fidelity bank audit, prep for exams by downloading tools
 Raphael - 
 Mr Subair - supporting Ms Emelda, review the gap tacker that went out today, support esther to on any task given
