@@ -19,8 +19,8 @@ todo
 1. run burpsuite scan -- done
 2. check the above links both port 80 and 443 -- done
 3. check amass for all links
-4. you might want to make all ips a new page linked to this page
-5. run reconftw
+4. you might want to make all ips a new page linked to this page - fashi
+5. run reconftw -- too slow
 6. document each link
 7. run nmap for all ips
 8. try to reach each link and indicate if reachable
