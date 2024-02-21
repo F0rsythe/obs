@@ -15,7 +15,7 @@ acciommfb using rsa
 | 196.1.179.174 |  | webtest.accionmfb.com |  |
 |  |  |  |  |
 todo 
-1. run burpsuite scan
+1. run burpsuite scan -- done
 2. check the above links both port 80 and 443
 3. check amass for all links
 4. you might want to make all ips a new page linked to this page
