@@ -7,8 +7,8 @@ Ms Opeyemi - Finish uploading  the evidences for ren tech, carbon finance, getti
 Ore - attended fidelity bank audit, preparing for exams by downloading tools
 Raphael - 
 Mr Subair - supporting Ms Emelda, review the gap tacker that went out today, support Esther on any task given
-TImilehin - I worked on Fidelity bank audit, attended meeting, identified gaps in the meeting and prepare for assessment
-Toyosola - wrapped up tech report for access bank subsidiaries, currently working on executiv summmary
-Mr Wisdom - working on report for Acces bank subsidiaries, working on renmoney report, following up on first pension to carry out internal assessment on site
+TImilehin - I worked on Fidelity bank audit, attended meeting, identified gaps in the meeting and prepare for assessment.
+Toyosola - wrapped up technical  report for access bank subsidiaries, currently working on executive summary
+Mr Wisdom - working on report for Access bank subsidiaries, working on Renmoney report, following up on first pension to carry out internal assessment on site
 Yimika - attended the gap assessment audit and close out meeting for fidelity bank and prep for assessment
 Achiugo - worked on report for access bank , sent out report for lemonade.
