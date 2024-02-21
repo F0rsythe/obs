@@ -4,3 +4,6 @@ Adaora- prep for practical assessment
 Femi Dawodu -  Fidelity audit and close out meeting, scan using invicti, scan using nmap,solve box on offsec
 Funmibi - Assigned parallex bank with olufela providing support, prep for assessment
 Ms Opeyemi - 
+Ore - fidelity bank audit, prep for exams by downloading tools
+Raphael - 
+Mr Subair -
