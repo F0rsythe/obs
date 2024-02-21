@@ -7,4 +7,6 @@ Ms Opeyemi -
 Ore - fidelity bank audit, prep for exams by downloading tools
 Raphael - 
 Mr Subair - supporting Ms Emelda, review the gap tacker that went out today, support esther to on any task given
-TImilehin - I worked on fidelity bank audit, at
+TImilehin - I worked on fidelity bank audit, attended meeting, identified gaps prep for assessment
+Toyosola - wrapped up tech report for access bank subsidiaries, currently working on executiv summmary
+Mr Wis
