@@ -9,4 +9,5 @@ Raphael -
 Mr Subair - supporting Ms Emelda, review the gap tacker that went out today, support esther to on any task given
 TImilehin - I worked on fidelity bank audit, attended meeting, identified gaps prep for assessment
 Toyosola - wrapped up tech report for access bank subsidiaries, currently working on executiv summmary
-Mr Wis
+Mr Wisdom - working on report for Acces bank subsidiaries, working on renmoney report, following up on first pension to carry out internal assessment on site
+Yimika - attended t
