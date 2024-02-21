@@ -14,6 +14,7 @@ acciommfb using rsa
 | 40.118.188.252 |  | web.accionmfb.com |  |
 | 196.1.179.174 |  | webtest.accionmfb.com |  |
 |  |  |  |  |
+|  |  |  |  |
 todo 
 1. run burpsuite scan -- done
 2. check the above links both port 80 and 443
