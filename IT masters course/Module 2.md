@@ -57,3 +57,5 @@ Keeps a database of operating systems and applications vulnerabilities
 5. Change windows and notifications
 6. If a scan is happening when there is an outage
 ### Social Engineering
+Trying to get someone to do something or share something they wouldn't normally do
+1. Phishing: Credentials 
