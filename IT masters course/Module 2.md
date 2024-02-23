@@ -13,4 +13,6 @@ Looking for all hosts or network devices
 Looking for all applications and login prompts
 Looking for all usernames and passwords
 
-### Passive Recon
+### Passive Reconnaissance
+Scanning for info or deriving info without touching the target system directly
+All the places you can get info about th
