@@ -49,4 +49,8 @@ Best done on the target machine... get a shell, run tshark
 Keeps a database of operating systems and applications vulnerabilities
 1. Authenticated scans
 2. Discovery scans
-### Challenges with V
+### Challenges with Vulnerability Scanning
+1. Cause outages
+2. Run out of hours
+3. Network Segmentation
+4. 
