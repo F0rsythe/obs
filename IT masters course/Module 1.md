@@ -56,8 +56,8 @@ Some entities choose which of the systems to pen-test.
 2. Risk elements
 3. Likelihood and impact
 4. Threat scenarios
-	1. Actor
-	2. Asset
-	3. Negative impact
+	1. Actor: An attacker
+	2. Asset: getting unauthorized access to the database
+	3. Negative impact: 
 5. Risk Appetite
-6. 
+6. Overstating risk
