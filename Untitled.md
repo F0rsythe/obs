@@ -1,4 +1,4 @@
-Israel - fidelity audit and attended close out meeting with fidelity bank, prep for practical assessment
+te Israel - fidelity audit and attended close out meeting with fidelity bank, prep for practical assessment
 Itunu - attended fidelity audit  and prep for practical assessment
 Adaora- prep for practical assessment
 Femi Dawodu -  attended Fidelity audit and close out meeting, scan using Invicti, scan using nmap,solve box on offensive security to prepare for practical assessment.
