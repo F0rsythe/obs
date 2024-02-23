@@ -53,4 +53,10 @@ Some entities choose which of the systems to pen-test.
 5. Non-disclosure
 ### Risk and Assurance
 1. Context of a business
-2. Ri
+2. Risk elements
+3. Likelihood and impact
+4. Threat scenarios
+	1. Actor
+	2. Asset
+	3. Negative impact
+	5
