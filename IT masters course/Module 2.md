@@ -15,4 +15,8 @@ Looking for all usernames and passwords
 
 ### Passive Reconnaissance
 Scanning for info or deriving info without touching the target system directly
-All the places you can get info about th
+All the places you can get info about the system without interacting with it:
+1. DNS
+2. Whois
+3. GeoIP
+4. Reverse IP: finding all websites o
