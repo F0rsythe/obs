@@ -65,4 +65,5 @@ Trying to get someone to do something or share something they wouldn't normally 
 5. Shoulder surfing
 6. USB drops
 ### Social Engineering Tactics
-1. Impersonation: Authority, IT 
+1. Impersonation: Authority, IT Department, Government department
+2. Urgency
