@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b018c7ba34ce1d2b",
@@ -155,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8f8cb891cbe9fc8",
+  "active": "d4fb1f3fc04fcfb6",
   "lastOpenFiles": [
     "Miju's meeting minutes.md",
     "IT masters course/Module 2.md",
