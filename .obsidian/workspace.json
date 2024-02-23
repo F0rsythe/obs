@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "880eafef3387c1f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT masters course/Module 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "IT masters course/Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "IT masters course/Module 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IT masters course/Module 1.md"
               }
             }
           },
@@ -180,10 +192,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f59f79d3d0cf111a",
+  "active": "880eafef3387c1f4",
   "lastOpenFiles": [
-    "accionmfb/POC.md",
     "Untitled.md",
+    "IT masters course/Module 1.md",
+    "IT masters course",
+    "accionmfb/POC.md",
     "labs/ValleyPE - tryhackme.md",
     "accionmfb/Pasted image 20240220132106.png",
     "accionmfb/Pasted image 20240220132009.png",
@@ -198,7 +212,6 @@
     "Daily",
     "test.md",
     "accionmfb",
-    "Untitled 1.md",
     "labs/valleype-tryhackme",
     "labs"
   ]
