@@ -66,4 +66,5 @@ Trying to get someone to do something or share something they wouldn't normally 
 6. USB drops
 ### Social Engineering Tactics
 1. Impersonation: Authority, IT Department, Government department
-2. Urgency
+2. Urgency: Limit thought process
+3. Fear: Fine, legal action
