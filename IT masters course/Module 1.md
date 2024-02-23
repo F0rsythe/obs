@@ -9,3 +9,6 @@
 7. Respect for peers: respect others
 ### Firefighters, not fire
 ---
+We're trying to train firefighters but teaching them how to quench the fire
+1. Mutual benefit
+2. 
