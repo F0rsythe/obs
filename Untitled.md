@@ -16,4 +16,4 @@ Achiugo - worked on report for access bank , sent out report for lemonade.
 
 
 
-Certidicate score a
+Certidicate score and send to ope copy ewa, uche, femi and cvo
