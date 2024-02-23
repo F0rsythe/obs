@@ -40,4 +40,4 @@ Vulnerability scanning and port scanning
 4. Dirb
 ### Sniffing
 ---
-Best done on the target 
+Best done on the target machine... get a shell, run tshark
