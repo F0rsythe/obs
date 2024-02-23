@@ -31,4 +31,4 @@ Interacting with the target e.g flooding with the system
 Vulnerability scanning and port scanning
 1. Network Scanning: nmap (look into nmap scripts to identify scripts)
 2. Vulnerability Scanning: Rapid7, OpenVas, Metasploit
-3. Wireless Interaction:
+3. Wireless Interaction: Kismet, Airsnot and Aircrack, Evil Twin
