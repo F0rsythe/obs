@@ -7,3 +7,6 @@ Learn to read and study to overcome personal issues
 ---
 What is in scope?
 	Target specified by the organisation
+What info is already on the internet?
+		Graphical view of the target
+Looking for all 
