@@ -27,4 +27,5 @@ The tension between product and security: working in a fast environment, CICD
 Security degrades over time if you don't maintain it
 ### Scope
 Some entities choose which of the systems to pen-test.
-1. White box: 
+1. White box pen-test: knowing the environment before you pen-test
+2. Black box pen-test: pen-testing without no knowledge of the system. SIm
