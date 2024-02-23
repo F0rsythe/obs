@@ -29,4 +29,4 @@ Security degrades over time if you don't maintain it
 Some entities choose which of the systems to pen-test.
 1. White box pen-test: knowing the environment before you pen-test
 2. Black box pen-test: pen-testing without no knowledge of the system. Simulating an attack.
-3. Grey box pen-test:
+3. Grey box pen-test: pen-testing with partial knowledge.
