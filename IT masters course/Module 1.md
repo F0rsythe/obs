@@ -23,5 +23,6 @@ Threat Landscape
 3. Passwords
 4. Vulnerabilities
 5. Pivoting
-The tension between product and security
+The tension between product and security: working in a fast environment, CICD
 Security degrades over time if you don't maintain it
+### Scope
