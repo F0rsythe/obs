@@ -30,4 +30,5 @@ All the places you can get info about the system without interacting with it:
 Interacting with the target e.g flooding with the system
 Vulnerability scanning and port scanning
 1. Network Scanning: nmap (look into nmap scripts to identify scripts)
-2. Vulnerability Scanning
+2. Vulnerability Scanning: Rapid7, OpenVas, Metasploit
+3. Wireless Interaction:
