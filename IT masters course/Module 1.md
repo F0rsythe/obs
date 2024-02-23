@@ -44,4 +44,4 @@ Some entities choose which of the systems to pen-test.
 4. When to reach for the bat phone: for critical vulnerabilities
 5. Scope: IP address ranges, DNS domains, Applications and databases
 6. Destructive Testing: DDos
-7. 
+7. Hours /Cost
