@@ -33,3 +33,8 @@ Some entities choose which of the systems to pen-test.
 4. Internal and External. External is testing the perimeter, while internal testing is the testing fron the inside. 
 5. Network, OS, application or db: 
 6. Social Engineering:
+7. Wireless:
+8. Smart Phone Apps
+9. Physical Assets
+10. OSINT
+11. 
