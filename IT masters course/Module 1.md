@@ -41,4 +41,4 @@ Some entities choose which of the systems to pen-test.
 1. Testing windows
 2. Written Authorization
 3. Contact names
-4. When to reach for t
+4. When to reach for the bat phone
