@@ -53,4 +53,7 @@ Keeps a database of operating systems and applications vulnerabilities
 1. Cause outages
 2. Run out of hours
 3. Network Segmentation
-4. 
+4. Bandwidth and resource considerations
+5. Change windows and notifications
+6. If a scan is happening when there is an outage
+### Social Engineering
