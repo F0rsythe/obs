@@ -21,5 +21,5 @@ Threat Landscape
 1. Attack Surface
 2. Malware
 3. Passwords
-4. Vulnerabiliities
+4. Vulnerabilities
 5. Pivoting
