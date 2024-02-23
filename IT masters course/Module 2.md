@@ -42,3 +42,7 @@ Vulnerability scanning and port scanning
 ---
 Best done on the target machine... get a shell, run tshark
 1. Neighboring systems
+2. Usernames and passwords
+3. Keys
+4. Data
+### Vulnerability Scanning
