@@ -49,3 +49,4 @@ Best done on the target machine... get a shell, run tshark
 Keeps a database of operating systems and applications vulnerabilities
 1. Authenticated scans
 2. Discovery scans
+### Challenges with V
