@@ -46,3 +46,8 @@ Some entities choose which of the systems to pen-test.
 6. Destructive Testing: DDos
 7. Hours /Cost
 ### External Consultancy Documents
+1. Quote / SoW
+2. Master Service Agreement
+3. Contract
+4. Written authorization
+5. Non-disclosure
