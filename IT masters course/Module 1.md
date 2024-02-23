@@ -32,3 +32,4 @@ Some entities choose which of the systems to pen-test.
 3. Grey box pen-test: pen-testing with partial knowledge.
 4. Internal and External. External is testing the perimeter, while internal testing is the testing fron the inside. 
 5. Network, OS, application or db: 
+6. Socail 
