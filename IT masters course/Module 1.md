@@ -17,3 +17,9 @@ We're trying to train firefighters but teaching them how to quench the fire
 5. Its an issue of trust: People must trust you to be in business. If you abuse the trust, you loose customers
 ### Why Penetration Testing 
 ---
+Threat Landscape
+1. Attack Surface
+2. Malware
+3. Passwords
+4. Vulnerabiliities
+5. Pivoting
