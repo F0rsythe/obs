@@ -45,3 +45,4 @@ Some entities choose which of the systems to pen-test.
 5. Scope: IP address ranges, DNS domains, Applications and databases
 6. Destructive Testing: DDos
 7. Hours /Cost
+### External Consultancy Documents
