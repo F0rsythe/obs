@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0356edf32ce3e52",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4fb1f3fc04fcfb6",
+  "active": "a0356edf32ce3e52",
   "lastOpenFiles": [
     "Miju's meeting minutes.md",
     "IT masters course/Module 2.md",
