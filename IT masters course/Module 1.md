@@ -42,4 +42,6 @@ Some entities choose which of the systems to pen-test.
 2. Written Authorization
 3. Contact names
 4. When to reach for the bat phone: for critical vulnerabilities
-5. Scope: IP address ranges, DNS domains, Applications and data
+5. Scope: IP address ranges, DNS domains, Applications and databases
+6. Destructive Testing: DDos
+7. 
