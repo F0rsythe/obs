@@ -58,4 +58,9 @@ Keeps a database of operating systems and applications vulnerabilities
 6. If a scan is happening when there is an outage
 ### Social Engineering
 Trying to get someone to do something or share something they wouldn't normally do
-1. Phishing: Credentials 
+1. Phishing: Credentials, False invoices, Ransomware, Gift card scams
+2. Phishing email and website
+3. Whaling
+4. Spear phishing
+5. Shoulder surfing
+6. USB drops
