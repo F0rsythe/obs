@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "880eafef3387c1f4",
+            "id": "d4fb1f3fc04fcfb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "IT masters course/Module 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "IT masters course/Module 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "IT masters course/Module 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IT masters course/Module 2.md"
               }
             }
           },
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "880eafef3387c1f4",
+  "active": "d8f8cb891cbe9fc8",
   "lastOpenFiles": [
+    "Miju's meeting minutes.md",
+    "IT masters course/Module 2.md",
     "IT masters course/Module 1.md",
-    "Untitled.md",
     "IT masters course",
     "accionmfb/POC.md",
     "labs/ValleyPE - tryhackme.md",
