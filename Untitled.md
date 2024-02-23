@@ -12,3 +12,8 @@ Toyosola - wrapped up technical  report for access bank subsidiaries, currently 
 Mr Wisdom - working on report for Access bank subsidiaries, working on Renmoney report, following up on first pension to carry out internal assessment on site
 Yimika - attended the gap assessment audit and close out meeting for fidelity bank and prep for assessment
 Achiugo - worked on report for access bank , sent out report for lemonade.
+
+
+
+
+Certidicate score a

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "accionmfb/POC.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "accionmfb/POC.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "accionmfb/POC.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "accionmfb/POC.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "f59f79d3d0cf111a",
   "lastOpenFiles": [
-    "Untitled.md",
     "accionmfb/POC.md",
+    "Untitled.md",
     "labs/ValleyPE - tryhackme.md",
     "accionmfb/Pasted image 20240220132106.png",
     "accionmfb/Pasted image 20240220132009.png",
