@@ -37,4 +37,8 @@ Some entities choose which of the systems to pen-test.
 8. Smart Phone Apps
 9. Physical Assets
 10. OSINT
-11. 
+### Rules of Engagement
+1. Testing windows
+2. Written Authorization
+3. Contact names
+4. When to reach for t
