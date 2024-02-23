@@ -14,4 +14,6 @@ We're trying to train firefighters but teaching them how to quench the fire
 2. Learn how fires start and grow
 3. Positive influence
 4. Bridge between cyber and business
-5. Its an issue of trust: People must trust you to be in business. 
+5. Its an issue of trust: People must trust you to be in business. If you abuse the trust, you loose customers
+### Why Penetration Testing 
+---
