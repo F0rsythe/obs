@@ -1,4 +1,5 @@
 ### Pentesting Fundamentals
+---
 1. Ethics: Take an ethical perspective on what we do
 2. Permission: get permission from an authorized personnel before you do anything. e,g scan or interact or exploit vulnerabilities.
 3. Research:
@@ -6,3 +7,5 @@
 5. Internal team or external consultancy: external need to breed professionalism. 
 6. Sympathy for the customer: don't ridicule the customer
 7. Respect for peers: respect others
+### Firefighters, not fire
+---
