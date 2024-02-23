@@ -9,4 +9,8 @@ What is in scope?
 	Target specified by the organisation
 What info is already on the internet?
 		Graphical view of the target
-Looking for all 
+Looking for all hosts or network devices
+Looking for all applications and login prompts
+Looking for all usernames and passwords
+
+### Passive Recon
