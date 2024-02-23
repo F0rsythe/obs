@@ -27,4 +27,6 @@ All the places you can get info about the system without interacting with it:
 8. Shodan
 ### Active Reconnaissance
 ---
+Interacting with the target e.g flooding with the system
+Vulnerability scanning and port scanning
 
