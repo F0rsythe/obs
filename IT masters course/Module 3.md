@@ -11,4 +11,4 @@
 3. DNS: Cache poisoning
 4. SNMP: community strings, service details
 5. SMTP: open relays, user enumeration, remote shell
-6. FTP: anonymous login, 
+6. FTP: anonymous login, remote
