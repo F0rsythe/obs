@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0356edf32ce3e52",
+  "active": "d4fb1f3fc04fcfb6",
   "lastOpenFiles": [
     "Miju's meeting minutes.md",
     "IT masters course/Module 2.md",
