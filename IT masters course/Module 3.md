@@ -24,4 +24,7 @@
 ### Wireless Attacks
 1. Rogue Access points
 2. Evil Twin
-3. De-authe
+3. De-authentication
+4. Preferred network list
+5. Weak WEP encryption
+6. Weak WPA passwords and WPS pins wardriving
