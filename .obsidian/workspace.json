@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT masters course/Module 2.md",
+                "file": "IT masters course/Module 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miju's meeting minutes.md",
+                "file": "IT masters course/Module 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miju's meeting minutes.md",
+                "file": "IT masters course/Module 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miju's meeting minutes.md"
+                "file": "IT masters course/Module 3.md"
               }
             }
           },
@@ -179,11 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ef4a75a4a3e6fe8",
+  "active": "d4fb1f3fc04fcfb6",
   "lastOpenFiles": [
-    "IT masters course/Module 3.md",
     "IT masters course/Module 2.md",
     "Miju's meeting minutes.md",
+    "IT masters course/Module 3.md",
     "IT masters course/Module 1.md",
     "IT masters course",
     "accionmfb/POC.md",
