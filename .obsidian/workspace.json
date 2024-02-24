@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT masters course/Module 3.md",
+                "file": "IT masters course/Module 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b018c7ba34ce1d2b",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT masters course/Module 3.md",
+                "file": "Miju's meeting minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT masters course/Module 3.md",
+                "file": "Miju's meeting minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT masters course/Module 3.md"
+                "file": "Miju's meeting minutes.md"
               }
             }
           },
@@ -178,15 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4fb1f3fc04fcfb6",
+  "active": "5ef4a75a4a3e6fe8",
   "lastOpenFiles": [
-    "IT masters course/Module 2.md",
+    "test.md",
+    "labs/ValleyPE - tryhackme.md",
     "Miju's meeting minutes.md",
+    "IT masters course/Module 2.md",
     "IT masters course/Module 3.md",
     "IT masters course/Module 1.md",
     "IT masters course",
     "accionmfb/POC.md",
-    "labs/ValleyPE - tryhackme.md",
     "accionmfb/Pasted image 20240220132106.png",
     "accionmfb/Pasted image 20240220132009.png",
     "accionmfb/Pasted image 20240220131905.png",
@@ -198,7 +199,6 @@
     "accionmfb/Pasted image 20240219165039.png",
     "conflict-files-obsidian-git.md",
     "Daily",
-    "test.md",
     "accionmfb",
     "labs/valleype-tryhackme",
     "labs"
