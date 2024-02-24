@@ -14,4 +14,5 @@
 6. FTP: anonymous login, remote shell, directory travseral
 ### System Attacks
 1. Pass the hash
-2. Man
+2. Man in the middle attacks
+	1. Downgrade attacks
