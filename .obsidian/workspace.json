@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "IT masters course/Module 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "IT masters course/Module 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "IT masters course/Module 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "IT masters course/Module 2.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "846807ac6addd556",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "IT masters course/Module 1.md",
+    "IT masters course/Module 2.md",
     "test.md",
+    "conflict-files-obsidian-git.md",
     "labs/ValleyPE - tryhackme.md",
     "labs",
     "accionmfb/Pasted image 20240220132009.png",
@@ -172,8 +174,6 @@
     "accionmfb",
     "Miju's meeting minutes.md",
     "IT masters course/Module 3.md",
-    "IT masters course/Module 2.md",
-    "IT masters course/Module 1.md",
     "IT masters course",
     "Daily/2024-02-20.md",
     "Daily"
