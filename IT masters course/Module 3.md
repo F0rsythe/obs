@@ -20,4 +20,4 @@
 3. NAC bypass
 	1. Spoof
 	2. Mac Address
-4. DHCP starvation and rogue DH
+4. DHCP starvation and rogue DHCP
