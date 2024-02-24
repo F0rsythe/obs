@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miju's meeting minutes.md",
+                "file": "IT masters course/Module 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b018c7ba34ce1d2b",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miju's meeting minutes.md",
+                "file": "IT masters course/Module 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miju's meeting minutes.md",
+                "file": "IT masters course/Module 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miju's meeting minutes.md"
+                "file": "IT masters course/Module 3.md"
               }
             }
           },
@@ -181,11 +182,12 @@
   "active": "5ef4a75a4a3e6fe8",
   "lastOpenFiles": [
     "test.md",
-    "labs/ValleyPE - tryhackme.md",
     "Miju's meeting minutes.md",
-    "IT masters course/Module 2.md",
     "IT masters course/Module 3.md",
+    "IT masters course/Module 2.md",
     "IT masters course/Module 1.md",
+    "Daily/2024-02-20.md",
+    "labs/ValleyPE - tryhackme.md",
     "IT masters course",
     "accionmfb/POC.md",
     "accionmfb/Pasted image 20240220132106.png",
@@ -195,7 +197,6 @@
     "accionmfb/Pasted image 20240220131433.png",
     "accionmfb/Pasted image 20240220130709.png",
     "accionmfb/Pasted image 20240220130955.png",
-    "Daily/2024-02-20.md",
     "accionmfb/Pasted image 20240219165039.png",
     "conflict-files-obsidian-git.md",
     "Daily",

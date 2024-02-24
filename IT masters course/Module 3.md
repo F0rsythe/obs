@@ -15,4 +15,6 @@
 ### System Attacks
 1. Pass the hash
 2. Man in the middle attacks
-	1. Downgrade attacks
+	1. Downgrade attacks - ssl and tls
+	2. Route altering
+3. NAC b
